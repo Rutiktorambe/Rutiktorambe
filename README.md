@@ -9,7 +9,7 @@
 - 💬 Ask me about Front-End Technologies.
 - 🎯 Belive in "Learning by Doing".
 - 🔗 PortfolioWebsite ➡[www.rutiktorambe.com](https://rutiktorambe.netlify.app/)
-- 📫 How to reach me <a href="mailto: rutiktorambe2020@gmail.com?subject=Hello%20from%20my%20website&body=I%20hope%20this%20email%20finds%20you%20well.">Send an email</a>
+- 📫 How to reach me <a href="mailto: rutiktorambe24@gmail.com?subject=Hello%20from%20my%20website&body=I%20hope%20this%20email%20finds%20you%20well.">Send an email</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
